@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Мои навыки:
+<img src=" width="10%">
 <!--
 **MargoTaegyan/MargoTaegyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
